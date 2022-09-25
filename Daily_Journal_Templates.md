@@ -4,7 +4,7 @@
   collapsed:: true
 	- tags:: #[[DL: Daily Log]]
 	  progress:: {{renderer :todomaster}}
-	- # [[DL: Daily Log]]: 2,66X.x #week
+	- # [[DL: Daily Log]]: X,XXX.x #week
 	  heading:: true
 		- {{renderer :interstitial, random, nts}}
 	- # [[DL: Habits]]
